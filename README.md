@@ -1,4 +1,3 @@
-# jaynes-probability-cn
 Supplement to E.T. Jaynes' Probability Theory: The Logic of Science, Chinese Edition
 
 # 说明
@@ -30,5 +29,12 @@ https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7D
 B站上的备份地址：
 
 https://www.bilibili.com/video/av333249919/  
+
+
+#  其他翻译
+在网上有前五章的一些其他人的翻译，以下是github上的一个版本：
+QQ上曾经有一个概率论沉思录的学习小组，群主基本翻译了前5章的部分章节：
+
+https://github.com/HairenLiao/translation/blob/master/probabilitytheory/index.org
 
 
