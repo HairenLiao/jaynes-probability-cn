@@ -1,3 +1,34 @@
 # jaynes-probability-cn
 Supplement to E.T. Jaynes' Probability Theory: The Logic of Science, Chinese Edition
-Test 
+
+# 说明
+
+本文档提供《概率论沉思录》中文版相关材料。翻译是一件非常不容易的事，译者感到错漏肯定会有不少，也恳请读者若发现错误之处能通过邮件liaohairen@gmail.com 进行反馈。
+
+# E.T. Jaynes的生平
+
+https://bayes.wustl.edu/etj/etj.html
+
+# 英文电子版链接
+
+http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf 
+
+
+# 英文非正式勘误表
+
+此网站中包含本书英文版中已知的一些错误（非官方）以及补充材料
+
+https://ksvanhorn.com/bayes/jaynes/index.html
+
+
+# Youtube上 Aubrey Clayton讲解视频
+
+Youtube上本书部分章节的讲解视频（非所有章节）
+
+https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_ 
+
+B站上的备份地址：
+
+https://www.bilibili.com/video/av333249919/  
+
+
