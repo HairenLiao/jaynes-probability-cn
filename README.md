@@ -2,7 +2,7 @@ Supplement to E.T. Jaynes' Probability Theory: The Logic of Science, Chinese Edi
 
 ## 说明
 
-本文档提供《概率论沉思录》中文版相关材料。翻译是一件非常不容易的事，译者感到错漏肯定会有不少，也恳请读者若发现错误之处能通过邮件liaohairen@gmail.com 进行反馈。
+本文档提供《概率论沉思录》中文版相关材料。翻译是一件非常不容易的事，译者感到错漏肯定会有不少，也恳请读者若发现错误之处能通过邮件liaohairen (at) gmail.com 进行反馈。
 
 ## E.T. Jaynes的生平
 
