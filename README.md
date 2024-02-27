@@ -1,4 +1,4 @@
-Supplement to E.T. Jaynes' Probability Theory: The Logic of Science, Chinese Edition
+Supplement to E.T. Jaynes's Probability Theory: The Logic of Science, Chinese Edition
 
 ## 说明
 
