@@ -2,7 +2,11 @@ Supplement to E.T. Jaynes's Probability Theory: The Logic of Science, Chinese Ed
 
 ## 说明
 
-本文档提供《概率论沉思录》中文版相关材料。翻译是一件非常不容易的事，译者感到错漏肯定会有不少，也恳请读者若发现错误之处能通过邮件liaohairen (at) gmail.com 进行反馈。
+本文档提供《概率论沉思录》中文版相关材料。翻译是一件非常不容易的事，译者感到错漏肯定会有不少，也恳请读者若发现错误之处能通过邮件liaohairen (at) gmail.com  或者微信公众号“概率论沉思录” 进行反馈。
+
+## 微信公众号
+
+我在微信上申请了一个“概率论沉思录”上个公众号，准备在上面写一些关于本书、概率论及科学哲学有关的内容。欢迎关注！
 
 ## E.T. Jaynes的生平
 
@@ -13,11 +17,19 @@ https://bayes.wustl.edu/etj/etj.html
 http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf 
 
 
-## 英文非正式勘误表
+## 英文版非正式勘误表
 
 此网站中包含本书英文版中已知的一些错误（非官方）以及补充材料
 
 https://ksvanhorn.com/bayes/jaynes/index.html
+
+## 中文版勘误表
+
+
+### 第1章 合情推理
+
+1. P12第二段，“留待读者验证的是：(1.15)中的C在逻辑上与蕴涵关系C=(B=>A)等价”， 应该是“与蕴涵关系C=(B=>~A)等价”（英文原文是对的）。感谢微信“老余”的反馈！
+
 
 
 ## Youtube上 Aubrey Clayton讲解视频
@@ -30,15 +42,7 @@ B站上的备份地址：
 
 https://www.bilibili.com/video/av333249919/  
 
-## 微信公众号
 
-我在微信上申请了一个“概率论沉思录”上个公众号，准备在上面写一些关于本书、概率论及科学哲学有关的内容。欢迎关注！
-
-## 已发现问题
-
-### 第1章 合情推理
-
-1. P12第二段，“留待读者验证的是：(1.15)中的C在逻辑上与蕴涵关系C=(B=>A)等价”， 应该是“与蕴涵关系C=(B=>~A)等价”（英文原文是对的）。感谢微信“老余”的反馈！
 
 
 
