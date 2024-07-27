@@ -6,7 +6,7 @@ Supplement to E.T. Jaynes's Probability Theory: The Logic of Science, Chinese Ed
 
 ## 微信公众号
 
-我在微信上申请了一个“概率论沉思录”上个公众号，准备在上面写一些关于本书、概率论及科学哲学有关的内容。欢迎关注！
+我在微信上申请了一个“概率论沉思录”的公众号，准备在上面写一些关于本书、概率论及科学哲学有关的内容。欢迎关注！
 
 ## E.T. Jaynes的生平
 
