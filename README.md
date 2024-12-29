@@ -23,13 +23,14 @@ http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabi
 
 https://ksvanhorn.com/bayes/jaynes/index.html
 
+
+
 ## 中文版勘误表
 
 
 ### 第1章 合情推理
 
 1. P12第二段，“留待读者验证的是：(1.15)中的C在逻辑上与蕴涵关系C=(B=>A)等价”， 应该是“与蕴涵关系C=(B=>~A)等价”（英文原文是对的）。感谢微信“老余”的反馈！
-
 
 
 ## Youtube上 Aubrey Clayton讲解视频
@@ -42,8 +43,9 @@ B站上的备份地址：
 
 https://www.bilibili.com/video/av333249919/  
 
+## 姬扬研究员的介绍视频
 
-
+https://www.koushare.com/live/details/15236
 
 
 ##  其他翻译
