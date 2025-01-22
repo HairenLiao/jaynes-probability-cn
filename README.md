@@ -32,6 +32,21 @@ https://ksvanhorn.com/bayes/jaynes/index.html
 
 1. P12第二段，“留待读者验证的是：(1.15)中的C在逻辑上与蕴涵关系C=(B=>A)等价”， 应该是“与蕴涵关系C=(B=>~A)等价”（英文原文是对的）。感谢微信“老余”的反馈！
 
+### 第2章 定量规则
+
+1. P41 练习2.3
+然后证明: 如果a+b>1, 那么对于析取，不等式有更强的形式；如果a+b<1, 那么对于合取，不等式有更强的形式。
+应该是：
+然后证明: 如果a+b>1, 那么对于合取，不等式有更强的形式；如果a+b<1, 那么对于析取，不等式有更强的形式。
+英文原文：
+Then show that, if a + b > 1, there is a stronger inequality for the conjunction; and if a + b < 1 there is a stronger one for the disjunction.
+conjunction是合取(交），disjunction是析取(并）
+感谢马启睿同学的反馈！                                                   
+
+
+
+
+
 
 ## Youtube上 Aubrey Clayton讲解视频
 
