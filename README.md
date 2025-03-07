@@ -43,6 +43,14 @@ Then show that, if a + b > 1, there is a stronger inequality for the conjunction
 conjunction是合取(交），disjunction是析取(并）
 感谢马启睿同学的反馈！                                                   
 
+### 第3章 初等抽样论
+1. (3.16)式, M!/(M-r)!=M(M-1)...(M-r-1)
+应该是
+            M!/(M-r)!=M(M-1)...(M-r+1)
+感谢微信“似水流年”的反馈！                                                   
+                                                               
+                                                   
+
 
 
 
